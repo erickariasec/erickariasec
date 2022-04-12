@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Erick Arias</h1>
 <h3 align="center">Passionate about learning and continuous improvement.</h3>
 
+- 🔭 I’m open to work!
+
 - 🌱 I’m currently learning **Java, HTML, CSS**
 
 - 👯 I’m looking to collaborate on **different projects**

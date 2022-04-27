@@ -3,7 +3,7 @@
 
 - 🔭 I’m open to work!
 
-- 🌱 I’m currently learning **Java, HTML, CSS**
+- 🌱 I’m currently learning **JavaScript, HTML, CSS, Java**
 
 - 👯 I’m looking to collaborate on **different projects**
 

@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=erickariasec&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="erickariasec Profile Views" /> </p>
+
 <h1 align="center">Hi 👋, I'm Erick Arias</h1>
 <h3 align="center">Passionate about learning and continuous improvement.</h3>
 

@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Erick Arias</h1>
 <h3 align="center">Passionate about learning and continuous improvement.</h3>
 
-- 🔭 I’m open to work!
+- 🏢 I’m currently working in a remote position!
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS, Java**
+- 🌱 I’m learning **React, JavaScript, TypeScript, Next JS**
 
 - 👯 I’m looking to collaborate on **different projects**
 
